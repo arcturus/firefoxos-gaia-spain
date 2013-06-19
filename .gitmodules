@@ -1,0 +1,3 @@
+[submodule "firefoxos-gaia-secrets"]
+	path = firefoxos-gaia-secrets
+	url = git@github.com:arcturus/firefoxos-gaia-secrets.git
